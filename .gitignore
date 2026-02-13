@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models
+*.h5
+*.pt
+*.pth
+
+# Dataset
+datasets/
+data/
+*.cache
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
