@@ -6,6 +6,14 @@
   </p>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-orange" />
+  <img src="https://img.shields.io/badge/TensorFlow-MobileNetV2-FF6F00?logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Streamlit-WebApp-ff4b4b?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
+
 
 An end-to-end, explainable AI system for detecting, classifying, and analyzing construction and demolition (C&D) waste materials using computer vision. This project goes beyond typical academic work by providing actionable insights for recycling and sustainability decisions.
 
