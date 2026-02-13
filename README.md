@@ -71,3 +71,25 @@ An end-to-end, explainable AI system for detecting, classifying, and analyzing c
 Open-source for educational and industry use.
 
 Contact: dharshrabon2004@gmail.com for questions.
+
+## Project Structure
+
+```
+WasteDetectionAI/
+│
+├── final_models/               # Trained YOLO and MobileNet models
+│   ├── yolo_detection_model.pt
+│   ├── mobilenet_classification_model.h5
+│   └── mobilenet_fused_model.h5
+│
+├── datasets/                   # Processed datasets (not uploaded to GitHub)
+│
+├── app.py                      # Streamlit web application
+├── pipeline.py                 # Detection + Classification pipeline
+├── README.md                   # Project documentation
+├── requirements.txt            # Dependencies
+└── .gitignore                  # Ignored files
+```
+
+
+
