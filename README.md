@@ -34,6 +34,9 @@ An end-to-end, explainable AI system for detecting, classifying, and analyzing c
 - Classes: brick, concrete, foam, plastic, stone, wood.
 - Preprocessing: Converted to YOLO format, augmented for balance.
 
+## Data Preparation
+- The CODD dataset was extracted from the zip file 'Construction and Demolition Waste Object Detection Dataset (CODD).zip' using Python's zipfile library. The extraction was done once to avoid duplicates, and the resulting folders (e.g.,'training', 'testing') are now in '/content/drive/MyDrive/WasteDetectionAI/datasets/CODD/Construction and Demolition Waste Object Detection Dataset (CODD)'. If re-extraction is needed, use: `zipfile.ZipFile(zip_path, 'r').extractall(dataset_path)`.
+
 ## Model Performance
 - Detection (YOLOv8): mAP50=0.802, precision=89.4%, recall=69.3%.
 - Classification (MobileNetV2, Fused): ~96% train accuracy, ~92% val accuracy.
