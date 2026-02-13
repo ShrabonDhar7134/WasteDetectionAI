@@ -1,5 +1,11 @@
 
-# Construction & Demolition Waste Intelligence System
+<p align="center">
+  <h1 align="center">Construction & Demolition Waste Intelligence System</h1>
+  <p align="center">
+    AI-powered Waste Detection • Classification • Sustainability Analytics
+  </p>
+</p>
+
 
 An end-to-end, explainable AI system for detecting, classifying, and analyzing construction and demolition (C&D) waste materials using computer vision. This project goes beyond typical academic work by providing actionable insights for recycling and sustainability decisions.
 
@@ -54,6 +60,6 @@ An end-to-end, explainable AI system for detecting, classifying, and analyzing c
 - Trained on Google Colab with GPU.
 
 ## License
-Open-source for educational and industry use. Cite if used in research.
+Open-source for educational and industry use.
 
-Contact: [Your Name/Email] for questions.
+Contact: dharshrabon2004@gmail.com for questions.
